@@ -1,6 +1,6 @@
 ### Hi there, I'm ssJesse - aka [codeSTACKr][website] 👋
 
-[![Twitter SIGUEME](https://img.shields.io/twitter/follow/octaviomazzeo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foctaviomazzeo&screen_name=octaviomazzeo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/octaviomazzeo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foctaviomazzeo&screen_name=octaviomazzeo)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -10,9 +10,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
+### Escuchando en Spotify 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Octavio Mazzeo Spotify Playing" width="350" />](https://open.spotify.com/track/0hoo74Q82lOWekiPWYOOuz?si=6VEAoFZDRe2Azawxt-aqiA)
 
 ### Connect with me:
 
