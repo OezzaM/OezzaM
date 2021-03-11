@@ -44,8 +44,6 @@
 
 ## Proyects
 
-<br />
-
 - ### [Alkemy Challenge](https://alkemychallenge.netlify.app/)
   Alkemy entrance challenge
 - ### [Frontend Oezzam](https://oezzam.netlify.app/)
