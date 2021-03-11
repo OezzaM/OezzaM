@@ -39,12 +39,8 @@
 
 <br />
 <br />
-<br />
-<br />
 
 ---
-
-<br />
 
 ## Proyects
 
