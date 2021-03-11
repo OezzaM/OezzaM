@@ -42,6 +42,21 @@
 <br />
 <br />
 
+---
+
+<br />
+
+## Proyects
+
+<br />
+
+- ### [Alkemy Challenge](https://alkemychallenge.netlify.app/)
+  Alkemy entrance challenge
+- ### [Frontend Oezzam](https://oezzam.netlify.app/)
+  Front end of website sales page
+- ### [Login and Register](https://loginoezzam.netlify.app)
+  Website registration and login
+
 [twitter]: https://twitter.com/octaviomazzeo
 [instagram]: https://instagram.com/octaviomazzeo
 [linkedin]: https://linkedin.com/in/octaviomazzeo
