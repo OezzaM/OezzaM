@@ -44,6 +44,8 @@
 
 ## Proyects
 
+- ### [Send transactions WEB 3.0](https://dapp-send-transactions.netlify.app/)
+  Dapp that allows you to send transactions between wallets
 - ### [Alkemy Challenge](https://alkemychallenge.netlify.app/)
   Alkemy entrance challenge
 - ### [Frontend Oezzam](https://oezzam.netlify.app/)
