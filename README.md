@@ -46,11 +46,13 @@
 
 - ### [Send transactions WEB 3.0](https://dapp-send-transactions.netlify.app/)
   Dapp that allows you to send transactions between wallets
+- ### [Embedded Login with Auth0](https://github.com/OezzaM/auth0-embedded-login/)
+  Example of embedded login using Auth0 with auth0-lock library
 - ### [Alkemy Challenge](https://alkemychallenge.netlify.app/)
   Alkemy entrance challenge
 - ### [Frontend Oezzam](https://oezzam.netlify.app/)
   Front end of website sales page
-- ### [Login and Register](https://loginoezzam.netlify.app)
+- ### [Login and Register](https://loginoezzam.netlify.app/)
   Website registration and login
 
 [twitter]: https://twitter.com/octaviomazzeo
