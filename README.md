@@ -13,7 +13,6 @@
 
 [<img align="left" alt="linkedn" width="40px" src="https://cdn.icon-icons.com/icons2/1996/PNG/512/linkedin_network_people_professional_profile_services_users_icon_123279.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | YouTube" width="40px" src="https://cdn.icon-icons.com/icons2/895/PNG/512/Twitter_icon_icon-icons.com_69154.png" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/ig_instagram_media_social_icon_124260.png" />][instagram]
 
 <br />
 <br />
@@ -40,20 +39,6 @@
 <br />
 <br />
 
----
-
-## Proyects
-
-- ### [Send transactions WEB 3.0](https://dapp-send-transactions.netlify.app/)
-  Dapp that allows you to send transactions between wallets
-- ### [Embedded Login with Auth0](https://github.com/OezzaM/auth0-embedded-login/)
-  Example of embedded login using Auth0 with auth0-lock library
-- ### [Alkemy Challenge](https://alkemychallenge.netlify.app/)
-  Alkemy entrance challenge
-- ### [Frontend Oezzam](https://oezzam.netlify.app/)
-  Front end of website sales page
-- ### [Login and Register](https://loginoezzam.netlify.app/)
-  Website registration and login
 
 [twitter]: https://twitter.com/octaviomazzeo
 [instagram]: https://instagram.com/octaviomazzeo
